@@ -36,19 +36,19 @@
 
 - Windows
 - Linux
-    - ubuntu
-    - arch linux
-    - nixos
-    - centos
-    - kali
-    - debian
-    - gentoo
-    - openSUSE
+  - ubuntu
+  - arch linux
+  - nixos
+  - centos
+  - kali
+  - debian
+  - gentoo
+  - openSUSE
 - Unix
 - Mac OS
-    - 混合 BSD Unix 还有自己的
+  - 混合 BSD Unix 还有自己的
 - BSD Unix
-    - Free BSD
+  - Free BSD
 
 是的，很多不认识的东西呢。一般我们常用的就是 Windows，如果对开发环境没有什么要求，直接在 Windows 上玩也是很开心的。有些有赛博洁癖的友友可能不想新内容在计算机上到处拉屎，我也一样，但是我学会的建厕所。而对于不知道怎么建厕所的新手来说，使用虚拟机或者船新科技 WSL 都是可以的。
 
@@ -129,9 +129,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <p>
-        Hello World
-    </p>
+    <p>Hello World</p>
   </body>
 </html>
 ```
